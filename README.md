@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**alisongfx/alisongfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eae, seja bem-vindo! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏂 Sobre mim
+Meu nome é Alison sou de Lins/SP e me identifico como Dev. Front-End, gosto bastante também de criar telas no Figma focando na experiência do usuário.
+
+
+## Aprendizados
+
+Esses projetos geralmente são iniciados com o intuito de aprender e conhecer novas práticas de desenvolvimento.
+
+
+
+## 🔗 Redes Sociais
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisonsavian/)
+
+[![instagram](https://img.shields.io/badge/instagram-f25d1d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alisonsavian/)
+
+
+## 🛠 Habilidades
+
+![HTML](https://img.shields.io/badge/HTML-ff6f00?style=for-the-badge&logo=HTML5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-0044ff?style=for-the-badge&logo=CSS3&logoColor=white)
+
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ffb700?style=for-the-badge&logo=javascript&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-7f11ed?style=for-the-badge&logo=PHP&logoColor=white)
+
