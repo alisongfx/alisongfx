@@ -20,11 +20,5 @@ Esses projetos geralmente são iniciados com o intuito de aprender e conhecer no
 
 ## 🛠 Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-ff6f00?style=for-the-badge&logo=HTML5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-0044ff?style=for-the-badge&logo=CSS3&logoColor=white)
-
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ffb700?style=for-the-badge&logo=javascript&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-7f11ed?style=for-the-badge&logo=PHP&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ff6f00?style=for-the-badge&logo=HTML5&logoColor=white) \ ![CSS](https://img.shields.io/badge/CSS-0044ff?style=for-the-badge&logo=CSS3&logoColor=white) \ ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ffb700?style=for-the-badge&logo=javascript&logoColor=white) \ ![PHP](https://img.shields.io/badge/PHP-7f11ed?style=for-the-badge&logo=PHP&logoColor=white)
 
