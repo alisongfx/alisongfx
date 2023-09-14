@@ -3,7 +3,7 @@
 
 
 ## 🏂 Sobre mim
-Meu nome é Alison sou de Lins/SP e me identifico como Dev. Front-End, gosto bastante também de criar telas no Figma focando na experiência do usuário.
+Meu nome é Alison sou Dev. Front-End, gosto bastante também de criar telas no Figma focando na experiência do usuário.
 
 
 ## Aprendizados
